@@ -1,0 +1,15 @@
+{
+  "name": "prettier-standalone-custom-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "1.19.1",
+    "prettier-plugin-csharp": "0.6.0-development"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": ""
+}
